@@ -24,6 +24,7 @@
 ## 🔧 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/Ter229/TikTok-demo.git
-cd TikTok-demo 
+git clone https://github.com/Ter229/TikTok-deemo.git
+cd TikTok-deemo
+
 ```
