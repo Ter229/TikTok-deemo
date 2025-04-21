@@ -1,12 +1,31 @@
-# React + Vite
+# 🎬 TikTok Demo Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Аналог TikTok с основными функциями: просмотр и поиск видео, лайки и просмотр комментариев. Приложение выполнено с использованием **React**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Стек технологий
 
-## Expanding the ESLint configuration
+### 🧠 Frontend:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- React Router
+- Vite
+- Tanstack query(react-query)
+
+---
+
+## ✨ Основные фичи
+
+- 📹 **Просмотр и поиск видео** — пользователи могут смотреть или искать видео которые бесконечно подгружаются.
+- 📹 **Просмотр аккаунтов пользователей** — пользователи могут смотреть  аккаунты других пользователей и видео на них.
+- 👍 **Лайки и комментарии** — пользователи могут лайкать и  смотреть комментарии к  видео.
+
+## 🔧 Клонировать репозиторий:
+
+```bash
+Копировать
+Редактировать
+git clone https://github.com/Ter229/TikTok-demo.git
+cd TikTok-demo 
+```
